@@ -26,3 +26,5 @@ Sales performance by region, brand, model, and time period
 Trend analysis using line and bar charts
 
 Drill-down and cross-filtering for detailed insights.
+<img width="596" height="332" alt="image" src="https://github.com/user-attachments/assets/4b23e93d-79f4-4b7f-ad48-75c62854dffc" />
+
